@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá! 👋
+
+Este perfil está em construção. Pretendo atualizá-lo e "finalizá-lo" em breve.
+Até que esteja pronto, você pode encontrar as informações diretamente comigo pelo e-mail [daniel21gr@gmail.com](mailto:daniel21gr@gmail.com).
+Se preferir, podemos nos conectar através do [LinkedIn](https://www.linkedin.com/in/daniel21gr/).
+
+Cheers! 🥂
 
 <!--
 **daniel21gr/daniel21gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
